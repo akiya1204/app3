@@ -1,0 +1,3 @@
+[submodule "seika"]
+	path = seika
+	url = https://github.com/akiya1204/app3
